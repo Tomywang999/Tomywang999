@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Tomy, nice to meet you!</h2>
+<h2 align="left">Hi 👋! I am Jingbo Wang, nice to meet you!</h2>
 
 ###
 
